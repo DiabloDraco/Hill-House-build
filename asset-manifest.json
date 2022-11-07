@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4b604a1.css",
-    "main.js": "/static/js/main.06c16591.js",
+    "main.css": "/static/css/main.51e0fc7f.css",
+    "main.js": "/static/js/main.a5c901da.js",
     "static/media/PrivacyNotice.pdf": "/static/media/PrivacyNotice.3658e3597bf444e1eee5.pdf",
     "static/media/office.jpg": "/static/media/office.d28dda6977e0554d5b80.jpg",
     "static/media/FinancialCalculators.pdf": "/static/media/FinancialCalculators.1d61832ef759111f072d.pdf",
@@ -13,8 +13,8 @@
     "static/media/CRSCOUNSEL1.pdf": "/static/media/CRSCOUNSEL1.b84280b5569d0d1a1da4.pdf",
     "static/media/capitalBack.png": "/static/media/capitalBack.55659460ac0aa4de1b8d.png",
     "static/media/BusinessContinuityPlanNotice.pdf": "/static/media/BusinessContinuityPlanNotice.a20da22d546297b21857.pdf",
-    "static/media/fullLogo.svg": "/static/media/fullLogo.5940e4e7eab802bb1ca8ac214290ee49.svg",
-    "static/media/logo.svg": "/static/media/logo.f4291b5a68c55a5398ea44721665b78e.svg",
+    "static/media/fullLogo.svg": "/static/media/fullLogo.6b263c750ff8d3ce1f57b9c057f725ab.svg",
+    "static/media/logo.svg": "/static/media/logo.7574a0f19e48a9640b26a0acb4334909.svg",
     "static/media/montserrat-v25-latin-800.woff": "/static/media/montserrat-v25-latin-800.5d71387e7b31e17b93c7.woff",
     "static/media/montserrat-v25-latin-700.woff": "/static/media/montserrat-v25-latin-700.fb5068a547276441355d.woff",
     "static/media/montserrat-v25-latin-500.woff": "/static/media/montserrat-v25-latin-500.62a04d3d3d6d38ba2a92.woff",
@@ -31,14 +31,14 @@
     "static/media/icon2.svg": "/static/media/icon2.676995827ab3ea1ada2f418b65de85b8.svg",
     "static/media/icon1.svg": "/static/media/icon1.4e5e8ea312ebcfaccf85c5a00a354410.svg",
     "index.html": "/index.html",
-    "static/media/login.svg": "/static/media/login.5128da8feabee423a9a29ea4939d480a.svg",
-    "static/media/register.svg": "/static/media/register.f36e453f0bea96fc1164a9d6c9ba6699.svg",
-    "static/media/downArrow.svg": "/static/media/downArrow.b418d12a1525e34c99b25caf1fbe1f32.svg",
-    "main.c4b604a1.css.map": "/static/css/main.c4b604a1.css.map",
-    "main.06c16591.js.map": "/static/js/main.06c16591.js.map"
+    "static/media/login.svg": "/static/media/login.7f501143d2e082b42e924b5cb4f9e9f9.svg",
+    "static/media/register.svg": "/static/media/register.b40e9c45de990f0fdd9f32a2b442ae15.svg",
+    "static/media/downArrow.svg": "/static/media/downArrow.dfa093cc1e7e8374d044661584d0bc54.svg",
+    "main.51e0fc7f.css.map": "/static/css/main.51e0fc7f.css.map",
+    "main.a5c901da.js.map": "/static/js/main.a5c901da.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4b604a1.css",
-    "static/js/main.06c16591.js"
+    "static/css/main.51e0fc7f.css",
+    "static/js/main.a5c901da.js"
   ]
 }
